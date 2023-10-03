@@ -1,1 +1,1 @@
-# Image-processing-ass-01
+# Image-processing-assignments
